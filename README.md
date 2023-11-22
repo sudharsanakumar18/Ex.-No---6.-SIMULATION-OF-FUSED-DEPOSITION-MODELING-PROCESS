@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SUDHARSANA KUAMR S R 
+### Register Number: 23007374
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
